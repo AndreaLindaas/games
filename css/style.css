@@ -1,0 +1,11 @@
+.games {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 50px;
+}
+.game {
+  width: 200px;
+}
+.game img {
+  width: 100%;
+}
